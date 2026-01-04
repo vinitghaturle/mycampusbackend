@@ -1,0 +1,20 @@
+{
+  "name": "campus-zone-dropbox-test",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.83.0",
+    "axios": "^1.13.2",
+    "busboy": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "dropbox": "^10.34.0",
+    "express": "^4.21.2",
+    "form-data": "^4.0.5",
+    "jose": "^6.1.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
